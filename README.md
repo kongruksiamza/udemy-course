@@ -10,6 +10,7 @@
 |2|พัฒนาเว็บแอพพลิเคชั่นด้วย React เวอร์ชั่น 18 (Real-World Projects)    | [รับส่วนลด](#) |
 |3|พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)      | [รับส่วนลด](#)|
 |4|พัฒนาเว็บด้วย React 15 Workshop (Building 15 Projects)     | [รับส่วนลด](#)|
+|5|Blockchain & Smart Contract (Solidity)| [รับส่วนลด](#)|
   
 ## ☕ คอร์สพัฒนาเว็บแอพพลิเคชั่น
 |ลำดับที่| ชื่อคอร์สเรียน | ลงทะเบียน |
