@@ -5,6 +5,7 @@
 ![image](https://github.com/kongruksiamza/udemy-course/blob/main/udemy-course.png?raw=true)
 
 ## 🔥 คอร์สเรียนใหม่ล่าสุด
+- [พัฒนา REST API ด้วย Django REST Framework](https://www.udemy.com/course/rest-api-django-rest-framework/?couponCode=CP092023)
 - [พัฒนาระบบร้านค้าออนไลน์ด้วย Django Framework 4.x (E-Commerce)](https://www.udemy.com/course/django-framework-e-commerce/?couponCode=CP092023)
 - [พัฒนาเว็บแอพพลิเคชั่นด้วย React เวอร์ชั่น 18 (Real-World Projects)](https://www.udemy.com/course/react-real-world-projects/?couponCode=CP092023)
 
