@@ -17,9 +17,8 @@
 |1|พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)           | [ลงทะเบียน](https://www.udemy.com/course/javascript-30-workshop/?couponCode=CP022024) |
 |2|พัฒนาเว็บด้วย React 15 Workshop (Building 15 Projects)    | [ลงทะเบียน](https://www.udemy.com/course/react-15-workshop/?couponCode=CP022024) |
 |3|สร้างเว็บแอพพลิเคชั่นด้วย JavaScript (Building 20 Projects)     | [ลงทะเบียน](https://www.udemy.com/course/javascript-building-20-projects/?couponCode=CP022024)|
-|4|พัฒนาเว็บด้วย JavaScript แบบ MERN Stack      | [ลงทะเบียน](https://www.udemy.com/course/javascript-mern-stack/?couponCode=CP022024)|
-|5|พัฒนาเว็บด้วย PHP PDO & MySQL (CRUD & Authentication)     | [ลงทะเบียน](https://www.udemy.com/course/php-pdo-mysql-crud/?couponCode=CP022024)|
-|6|เจาะลึก TypeScript ตั้งแต่เริ่มต้นจนใช้งานจริง     | [ลงทะเบียน](https://www.udemy.com/course/typescript-basic/?couponCode=CP022024)|
+|4|พัฒนาเว็บด้วย PHP PDO & MySQL (CRUD & Authentication)     | [ลงทะเบียน](https://www.udemy.com/course/php-pdo-mysql-crud/?couponCode=CP022024)|
+|5|เจาะลึก TypeScript ตั้งแต่เริ่มต้นจนใช้งานจริง     | [ลงทะเบียน](https://www.udemy.com/course/typescript-basic/?couponCode=CP022024)|
 
 ## 💻 คอร์สพัฒนาแอพพลิเคชั่นด้วยภาษา Python & Blockchain 
 |ลำดับที่| ชื่อคอร์สเรียน | รับส่วนลด |
